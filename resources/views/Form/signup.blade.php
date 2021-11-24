@@ -92,17 +92,17 @@
                             <div class="col-span-6">
                                 <label for="first_name" class="block text-sm font-medium text-gray-700">Google</label>
                                 <a href="https://google.com" class="mt-1 focus:ring-indigo-500 border focus:border-indigo-500 block w-full h-8 shadow-sm sm:text-sm border-gray-300 rounded-md">
-                                    <img style="margin-top:2%" class=" ml-40  items-center justify-between flex" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/8215f6659adc202403198fef903a447e/sign-in-with-google.svg">
+                                    <img style="margin-top:2%" class=" ml-48  items-center justify-between flex" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/8215f6659adc202403198fef903a447e/sign-in-with-google.svg">
                                 </a>
                             </div>
                             <div class="col-span-12">
                                 <label for="first_name" class="block text-sm font-medium text-gray-700">Microsoft</label>
                                 <a href="https://www.microsoft.com/en-us/" class="mt-1 focus:ring-indigo-500 border focus:border-indigo-500 block w-full h-8 shadow-sm sm:text-sm border-gray-300 rounded-md">
-                                    <img style="margin-top:1.5%" class="ml-40  items-center justify-between flex" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/72ece804e5285ab6507e2406157cda3c/microsoft-logo.svg">
+                                    <img style="margin-top:1.5%" class="ml-48  items-center justify-between flex" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/72ece804e5285ab6507e2406157cda3c/microsoft-logo.svg">
                                 </a>
                             </div>
                             <div class="col-span-12 mt-4">
-                                <a class="ml-20 text-blue-700" href="/login">Already Have An Account ?</a>
+                                <a class="ml-24 text-blue-700" href="/login">Already Have An Account ?</a>
                             </div>
                             <br>
                             <br>
@@ -111,7 +111,7 @@
                 </div>
                 </form>
                 <div class="col-span-12 mt-4">
-                    <img style="width: 100px;" class="ml-36  text-blue-700" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/16006ae28f149063408d601e8c80eddc/atlassian-logo-blue-small.svg" >
+                    <img style="width: 100px;" class="ml-44  text-blue-700" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/c/p/res/images/16006ae28f149063408d601e8c80eddc/atlassian-logo-blue-small.svg" >
                 </div>
                 <div class="col-span-12 mt-4 flex justify-between text-gray-600">
                     <a href="#">Templates</a>
